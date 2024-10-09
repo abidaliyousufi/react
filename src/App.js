@@ -3,6 +3,7 @@ import './App.css';
 
 function App() {
   const main;
+  const number;
   return (
     <div className="App">
       <header className="App-header">
